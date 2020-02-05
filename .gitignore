@@ -1,0 +1,7 @@
+OBJ/
+*.d
+*.o
+demo_project/Drivers/CMSIS/
+*.lst
+testcodes/main.asv
+demo_project/.vscode/
